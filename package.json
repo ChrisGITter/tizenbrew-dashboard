@@ -1,0 +1,10 @@
+{
+  "name": "tizenbrew-dashboard",
+  "version": "1.0.0",
+  "description": "TV-Dashboard: Innen-/Außentemperatur aus Home Assistant und Schnellstart für TizenTube",
+  "packageType": "app",
+  "appName": "TV Dashboard",
+  "appPath": "app/index.html",
+  "keys": ["ColorF0Red", "ColorF1Green", "ColorF2Yellow", "ColorF3Blue"],
+  "license": "MIT"
+}
