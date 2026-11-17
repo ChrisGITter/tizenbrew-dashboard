@@ -10,8 +10,8 @@ Getestet für einen Samsung GQ65Q60T (Tizen 5.5). Der Code ist ES2017 ohne Build
 
 ## Installation
 
-1. TizenBrew öffnen → **Modul-Manager** → **Modul hinzufügen**
-2. `gh/ChrisGITter/tizenbrew-dashboard` eingeben
+1. TizenBrew öffnen → **Modul-Manager** → Modul hinzufügen über **GitHub**
+2. Nur `ChrisGITter/tizenbrew-dashboard` eingeben (das `gh/` setzt TizenBrew selbst davor)
 3. Das Modul **TV Dashboard** starten. Beim ersten Start öffnen sich die Einstellungen.
 4. Das Home-Assistant-Token eintragen. Am einfachsten geht das über die Tastatur in der SmartThings-App am Handy.
 5. Optional: Im Modul-Manager das Modul als **Autostart** festlegen.
